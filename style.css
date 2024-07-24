@@ -64,7 +64,7 @@ header nav ul li a:hover {
     position: relative;
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(to bottom right, rgba(96, 76, 76, .6), rgba(96, 76, 76, .6)), url("img/bg-image.jpeg");
+    background-image: linear-gradient(to bottom right, rgba(96, 76, 76, .6), rgba(96, 76, 76, .6)), url("bg-image.jpeg");
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
